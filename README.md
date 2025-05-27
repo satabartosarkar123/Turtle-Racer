@@ -1,5 +1,3 @@
-"""
-Etch_a_Sketch.py
 
 Project: Etch-a-Sketch Simulator
 
@@ -34,4 +32,3 @@ License:
 Created:
     27.05.2025
 
-"""
